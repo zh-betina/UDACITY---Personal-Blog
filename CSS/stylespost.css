@@ -1,6 +1,6 @@
-@import url('/home/betina/Documents/Atom/UDEMY/Project1/MainPage/CSS/text.css');
-@import url('https://fonts.googleapis.com/css?family=Pavanam|Podkova|Revalia&display=swap');
-@import url('/home/betina/Documents/Atom/UDEMY/Project1/MainPage/CSS/media-icons.css');
+@import url(./text.css);
+@import url(https://fonts.googleapis.com/css?family=Pavanam|Podkova|Revalia&display=swap);
+@import url(./media-icons.css);
 
 body {
 
