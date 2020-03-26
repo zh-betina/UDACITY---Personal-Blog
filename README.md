@@ -1,5 +1,5 @@
-# UDEMY---Personal-Blog
-Learning projects.
+# UDACITY---Personal-Blog
+(Learning projects.)
 
 A repository hosting files serving the 1st project from Udemy Front-End Development Nanodegree.
 
