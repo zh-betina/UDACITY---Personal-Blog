@@ -1,6 +1,10 @@
 # UDACITY---Personal-Blog
 (Learning projects.)
 
+	(Errata: In some of my commits you can read UDEMY. Actually I confused the two.
+	Instead of typing UDACITY, I had typed UDEMY. Obviously, the whole repository
+	is linked to my UDACITY training.)
+
 A repository hosting files serving the 1st project from Udemy Front-End Development Nanodegree.
 
 1st project: Personal blog.
@@ -23,3 +27,4 @@ These links are active:
 
 
 All the social media icons, sharing buttons etc. are inactive.
+
