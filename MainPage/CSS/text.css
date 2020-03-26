@@ -1,0 +1,154 @@
+/*Text formatting*/
+
+html {
+
+  font-size: 3vw;
+
+}
+
+h1 {
+
+  width: 60%;
+  line-height: 145%;
+  font-family: 'Revalia', cursive;
+  font-size: 1.9em;
+  color: #053A3F;
+  background: rgba(255, 255, 255, 0.35);
+
+}
+
+h2 {
+
+  font-family: 'Podkova', serif;
+  font-size: 1.7em;
+  color: #053A3F;
+  text-align: center;
+
+}
+
+h3 {
+
+  font-family: 'Pavanam', sans-serif;
+  font-size: 1.5em;
+  font-weight: 900;
+  color: #053A3F;
+  text-align: center;
+
+}
+
+.larger-p {
+
+  font-family: 'Pavanam', sans-serif;
+  font-size: 1.4em;
+  color: #353A3A;
+  text-align: justify;
+  margin: 0 0.3em 1em 0.3em;
+
+}
+
+.smaller-p {
+
+  font-family: 'Pavanam', sans-serif;
+  font-size: 1em;
+  color: #353A3A;
+  margin: 1em 1em 0.2em 1em;
+  text-align: justify;
+
+}
+
+/*Navbar text*/
+.navtext {
+
+  font-family: 'Podkova', serif;
+  font-size: 1.5em;
+  color: #063841;
+
+}
+
+/*Navbar links formatting*/
+.navlink:link,
+.navlink:visited {
+
+  text-decoration-line: none;
+  color: #063841;
+
+}
+
+.navlink:hover {
+
+  text-decoration-line: none;
+  color: #063841;
+  font-size: 1.5em;
+
+}
+
+.navlink:active {
+
+  text-decoration-line: none;
+  color: #063841;
+
+}
+
+/*Footer text*/
+
+.pics-credit-txt {
+
+  font-family: 'Pavanam', sans-serif;
+  font-size: 1em;
+  text-align: center;
+  color: #353A3A;
+  line-height: 0.5;
+
+}
+
+.footer-link:link,
+.footer-link:visited {
+
+  text-decoration-line: none;
+  font-weight: normal;
+  color: black;
+
+}
+
+.footer-link:hover {
+
+  text-decoration-line: none;
+  font-weight: 900;
+  color: black;
+  transition-duration: 0.4s;
+
+}
+
+.footer-link:active {
+
+  text-decoration-line: none;
+  font-weight: normal;
+  color: black;
+
+}
+a:link,
+a:visited {
+
+  text-decoration-line: none;
+  font-weight: normal;
+  color: #E5E5E5;
+
+}
+
+a:hover {
+
+  text-decoration-line: none;
+  font-weight: 900;
+  color: #E5E5E5;
+  transition-duration: 0.4s;
+
+}
+
+a:active {
+
+  text-decoration-line: none;
+  font-weight: normal;
+  color: #E5E5E5;
+  transition-duration: 0.4s;
+
+}
