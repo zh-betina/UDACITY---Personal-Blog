@@ -1,6 +1,7 @@
 @import url(./text.css);
 @import url(https://fonts.googleapis.com/css?family=Pavanam|Podkova|Revalia&display=swap);
 @import url(./media-icons.css);
+@import url(./buttons.css);
 
 body {
 
@@ -198,53 +199,6 @@ aside {
   color: green;
 
 }
-
-/* Formatting for buttons */
-
-.search-btn {
-
-  background-color: #527472;
-  color: #E5E5E5;
-  width: 3em;
-  height: 2.2em;
-  margin: 0 0 0 1em;
-  font-size: 1em;
-  border: none;
-  border-radius: 1.5em;
-  transition-duration: 0.4s;
-
-}
-
-.btn {
-
-  background-color: #527472;
-  color: #E5E5E5;
-  width: 7em;
-  height: 2.2em;
-  margin: 1.2em 0 1.2em 0;
-  font-size: 1em;
-  border: none;
-  border-radius: 1.5em;
-  transition-duration: 0.4s;
-
-}
-
-.btn:hover,
-.search-btn:hover {
-
-  background-color: #729c99;
-  font-weight: 900;
-
-}
-
-.share-section,
-.previous-next {
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
-  }
 
 
 /* ------------------------------Author section -----------------------------*/
